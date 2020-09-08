@@ -1,0 +1,25 @@
+banco de dados
+cursos
+categoria dos cursos
+Alunos
+Professores
+area do curso
+area administrativa da escola
+
+Estrutura
+
+Segment      | Discipline   | excercise    | Student          | Teacher   | User              | studentDiscipline
+id           | id           | id           | userId           | userId    | id                | studentId
+title        | title        | disciplineId |                  |           | name              | disciplineId
+slug         | subtitle     |              |                  |           | lastname          | points
+subtitle     | subcontent   |              |                  |           | email             | 
+content      | content      |              |                  |           | password          | 
+teacher      | segment      |              |                  |           | remember_token    | 
+             |              |              |                  |           | rg                | 
+             |              |              |                  |           | cpf               | 
+             |              |              |                  |           | birthday          |
+================================================================================================================
+
+Front
+
+Back
